@@ -1,0 +1,9 @@
+.box {
+  height: 100vh;
+}
+.container {
+  height: 20vh;
+  width: 60%;
+  border: solid 2px;
+  border-color: black;
+}
